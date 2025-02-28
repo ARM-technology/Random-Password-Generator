@@ -1,6 +1,6 @@
 ========================================================
 تنبيييه هااام:
- بخصوص الاداة تعتبر نسخة بيتا و تحتوي على 2 اخطاء سيتم تعديلها في التحديث القادم
+ بخصوص الاداة تعتبر نسخة بيتا0.1 و تحتوي على 2 اخطاء سيتم تعديلها في التحديث القادم
 ===================================================
 الخطأ الاول لا يوجد زر طوارى لتوقف لم يتم اضافة ذالك
 الخطأ الثاني عند عدم اختيار مسار و ضغط اغلاق سيتم تشغيل البرنامج تلقائي لتوليد كلمات السر 
@@ -17,7 +17,7 @@ English :
 ------------------
 ========================================================
 Important Notice:
-Regarding the tool, it is considered a beta version and contains 2 errors that will be fixed in the next update
+Regarding the tool, it is considered a beta 0.1 version and contains 2 errors that will be fixed in the next update
 ========================================================
 First error: There is no emergency stop button; this was not added
 Second error: When no path is selected and closed, the program will automatically start generating passwords
@@ -30,4 +30,8 @@ The number of generated passwords has been reduced to approximately 20 million i
 218,340,105,584,896 passwords 
 to reduce the load on the processor.
 ------------------------------------------------------------------------
-
+--------------------------------------------------------
+======================================
+Beta 0.2 : 
+An emergency button 'F' has been added. When pressed and ideally held down, the application closes.
+===============================================================
